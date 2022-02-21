@@ -1,0 +1,199 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.myrows {
+    border: 3px solid green;
+    padding: 5px;
+}
+
+.mycols {
+    border: 3px solid red;
+}
+
+.mycontainer {
+    background: aqua;
+}
+
+/*Header*/
+#topHeader {
+    background-color: #111a00;
+    border-top: 4px solid  #fcca2d;
+    border-bottom: 4px solid  #fcca2d;
+}
+
+#topHeader a{
+    color: ghostwhite;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+
+#logo
+{	
+	width: 100%;
+	height: 100%;
+	padding: 10px;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+
+
+
+/*Footer*/
+.logofoot {
+    width: 100%;
+	padding: 10px;
+}
+
+.full-footer {
+    background-color: #334d00;
+  /*  position: absolute;
+    bottom: 0;
+    width: 100%; */
+}
+
+.top-footer {
+    padding:10px;
+}
+
+.top-footer a {
+    color: ghostwhite;
+    font-size: 0.99rem;
+    font-weight: 600;
+    
+}
+
+.top-footer h2 {
+    color: ghostwhite;
+    font-weight: 600;
+}
+
+.bottom-footer {
+    background-color: #111a00;
+    border-top: 4px solid  #fcca2d;
+    border-bottom: 4px solid  #fcca2d;
+}
+
+.bottom-footer p {
+    color: ghostwhite;
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+.bottom-footer a {
+    color: ghostwhite;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+
+
+a#scroll-up i {
+    color: ghostwhite;
+}
+a#scroll-up i {
+    font-size: 60px;
+    color: ghostwhite;
+}
+
+.yellow{
+    background-color: #fcca2d;
+    color:#111a00;
+    max-width: 100%;
+}
+
+.olive-green {
+    background-color: #334d00;
+    color: ghostwhite;
+    max-width: 100%;
+}
+
+.white {
+    background-color: #ffffb3;
+    color:#111a00; 
+    max-width: 100%;
+}
+
+.light-yellow {
+    background-color: #c4ff4d;
+    color: #111a00;
+    max-width: 100%;
+}
+
+.light-yellow1 {
+    background-color: #c4ff4d;
+    color: #111a00;
+    
+}
+
+#heading1 {
+    background-color: #334d00;
+}
+
+#heading1 a{
+    color: ghostwhite;
+    font-weight: 600;
+    font-size:1.8rem;
+}
+
+
+
+
+
+#marquee {
+    background-color: #111a00;
+    color: ghostwhite;
+    font-weight: 500;
+    text-align: center;
+    padding: 10px;
+    font-size: 1.2rem;
+  }
+  #marquee a{
+    font-size: 0.99rem;
+    color: ghostwhite;
+    font-weight: 500;
+  }
+  
+  #about {
+    font-size: larger;
+    text-align: center;
+    
+  }
+
+  hr.style-one {
+  
+    height: 3px;
+    background: #cc010c;
+  }
+
+  .about-us {
+    font-weight: 500;
+    text-align: justify;
+  }
+
+  .clients-section {
+      background-color: #111a00;
+      color:ghostwhite;
+  }
+
+  /*About Us*/
+
+  .breadcrumbs-section {
+      background-color: #ffffb3;
+      color: #111a00;
+  }
+
+  /*Contact Us*/
+
+  .address p{
+      font-weight: 600;
+  }
+
+  .address a{
+    color: #cc010c;
+  }
